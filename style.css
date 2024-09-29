@@ -1,0 +1,86 @@
+body{
+    background-image: url(family.jpg);
+    height: 100vh;
+}
+
+#div1{
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    padding-top: 20px;
+}
+
+#gf{
+    height: 200px;
+    width: 200px;
+    border-radius: 40px;
+}
+
+#div2{
+    display: inline-block;
+
+}
+
+#gm{
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    border-radius: 40px;
+}
+
+#div3{
+    height: 200px;
+    width: 200px;
+    padding-top: 20px;
+    float: left;
+    padding-left: 400px;
+}
+
+#div4{
+    height: 200px;
+    width: 200px;
+    padding-top: 20px;
+    float: right;
+    padding-right: 400px;
+}
+
+#fa{
+    width: 200px;
+    height: 200px;
+    border-radius: 40px;
+}
+
+#ma{
+    width: 200px;
+    height: 200px;
+    border-radius: 40px;
+}
+
+#div5{
+    height: 200px;
+    width: 200px;
+    padding-top: 20px;
+    float: left;
+    padding-left: 200px;
+}
+
+#div6{
+    height: 200px;
+    width: 200px;
+    padding-top: 20px;
+    float: right;
+    padding-right: 200px;
+}
+
+#so{
+    width: 200px;
+    height: 200px;
+    border-radius: 40px;
+}
+
+#da{
+    width: 200px;
+    height: 200px;
+    border-radius: 40px;
+}
+
